@@ -1,1 +1,1 @@
-# Ethnus-MERN-6-jun-
+# Ethnus-MERN-6-jun
